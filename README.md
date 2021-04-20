@@ -1,3 +1,36 @@
+
+In this weeks HW we had to create a readme generator using node js.
+
+Github repo link: https://github.com/markhamtrenton/09-Nodejs-Homework Youtube link: https://www.youtube.com/watch?v=itZg1YlKMyA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 09 Node.js Homework: Professional README Generator
 
 ## Your Task
